@@ -1,0 +1,9 @@
+streamlit
+speechrecognition
+torch
+torchvision
+opencv-python
+transformers
+pandas
+scikit-learn
+Pillow
